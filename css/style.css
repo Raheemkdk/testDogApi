@@ -32,11 +32,6 @@ h1{
 }
 div{
   display:flex;
-  h2{
-    /* border-left: 5px solid black;
-    border-top:5px solid black;
-    border-bottom: 5px solid black; */
-  }
   img{
     height: 500px;
     width: 500px;
